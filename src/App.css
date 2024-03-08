@@ -1,0 +1,60 @@
+.logo{
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img{
+    max-width: 40px;
+    margin-right: 5px;
+  }
+
+  .box{
+    max-width: 500px;
+    margin-top: 100px;
+    margin-left: 400px;
+  }
+
+  .cake{
+    margin:auto;
+    margin-top: 70px;
+  }
+
+  .dashbar{
+    background-color: yellow;
+    margin: 15px;
+    height: 30vh;
+    width: 180vh;
+  }
+  .wallet{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+
+  .wallet .btn{
+    margin-right: 20px;
+  }
+
+  .order-btn{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+
+  .order-btn .btn{
+    margin-right: 20px;
+  }
+
+  .custom-button {
+    height: 80px;
+    width: 350px;
+  }
+
+  .navbar-bg{
+    background-color: #5F0F40;
+  }
+
+  .n1{
+    color: whitesmoke;
+    font-weight: bold;
+  }
